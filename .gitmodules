@@ -1,0 +1,6 @@
+[submodule "FastDrive_STM32H745_LL_ADC1_OverSampler"]
+	path = FastDrive_STM32H745_LL_ADC1_OverSampler
+	url = ./FastDrive_STM32H745_LL_ADC1_OverSampler
+[submodule "FastDrive_STM32H745_LL_Dual_Boot_Example"]
+	path = FastDrive_STM32H745_LL_Dual_Boot_Example
+	url = ./FastDrive_STM32H745_LL_Dual_Boot_Example
