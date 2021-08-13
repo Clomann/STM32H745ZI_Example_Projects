@@ -1,6 +1,6 @@
 [submodule "STM32H745_LL_ADC1_OverSampler"]
 	path = STM32H745_LL_ADC1_OverSampler
-	url = ./STM32H745_LL_ADC1_OverSampler
+	url = https://github.com/Clomann/STM32H745_LL_ADC1_OverSampler.git
 [submodule "STM32H745_LL_Dual_Boot_Example"]
 	path = STM32H745_LL_Dual_Boot_Example
 	url = https://github.com/Clomann/STM32H745_LL_Dual_Boot_Example
