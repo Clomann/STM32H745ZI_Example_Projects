@@ -4,3 +4,6 @@
 [submodule "STM32H745_LL_Dual_Boot_Example"]
 	path = STM32H745_LL_Dual_Boot_Example
 	url = https://github.com/Clomann/STM32H745_LL_Dual_Boot_Example
+[submodule "STM32CubeH7"]
+	path = STM32CubeH7
+	url = https://github.com/STMicroelectronics/STM32CubeH7.git
